@@ -1,0 +1,9 @@
+<?php
+	$temp = 31;
+
+	if ($temp > 30){
+		echo "Muito quente";
+	} else {
+		echo 0;
+	}
+	?>
